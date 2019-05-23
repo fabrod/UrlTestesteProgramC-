@@ -1,0 +1,16 @@
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\bin\Debug\UrlTester.exe.config
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\bin\Debug\UrlTester.exe
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\bin\Debug\UrlTester.pdb
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\obj\Debug\UrlTester.csprojAssemblyReference.cache
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\obj\Debug\UrlTester.csproj.ResolveComReference.cache
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\obj\Debug\UrlTester.csproj.CoreCompileInputs.cache
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\obj\Debug\UrlTester.exe
+C:\Users\yfedotov\source\repos\UrlTester\UrlTester\obj\Debug\UrlTester.pdb
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\bin\Debug\UrlTester.exe.config
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\bin\Debug\UrlTester.exe
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\bin\Debug\UrlTester.pdb
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\obj\Debug\UrlTester.csprojAssemblyReference.cache
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\obj\Debug\UrlTester.csproj.ResolveComReference.cache
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\obj\Debug\UrlTester.csproj.CoreCompileInputs.cache
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\obj\Debug\UrlTester.exe
+C:\Users\frodrigue4\LinksTesterForExcelFile\UrlTester\UrlTester\obj\Debug\UrlTester.pdb
